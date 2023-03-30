@@ -1,0 +1,22 @@
+.height {
+  height: 50vh !important;
+}
+
+.blue-font {
+  color: #0400C1;
+}
+
+.blue-bg {
+  background: #0400C1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body div {
+  width: 100vw;
+  height: 100vh;
+  background: red;
+}
